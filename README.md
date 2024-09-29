@@ -12,7 +12,7 @@ This project is a Pok√©mon application that allows users to explore various Pok√
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Pokemon.git
+    git clone https://github.com/abhishekraoas/Pokemon.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -26,9 +26,9 @@ This project is a Pok√©mon application that allows users to explore various Pok√
 ## Usage
 1. Start the application:
     ```bash
-    npm start
+    npm run dev
     ```
-2. Open your browser and navigate to `http://localhost:3000`
+2. Open your browser and navigate to `http://localhost:5173`
 
 ## Contributing
 1. Fork the repository
@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors and supporters
 
 ## Contact
-For any questions or suggestions, please open an issue or contact me at [your-email@example.com].
+For any questions or suggestions, please open an issue or contact me at [internetduniya02@gmail.com].
